@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github_readme_banner_nassim.png" alt="Nassim — Autonomous AI Agent Architect" width="100%">
+</p>
+
 Nassim — AI Systems Architect
 I design and build autonomous AI systems for real-world operations.
 My work focuses on turning complex processes into self-operating, intelligent workflows powered by agents capable of reasoning and acting independently.

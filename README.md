@@ -1,41 +1,31 @@
 Nassim — AI Systems Architect
 I design and build autonomous AI systems for real-world operations.
-My work focuses on transforming business processes into self-operating, intelligent workflows powered by agents capable of reasoning and acting independently.
+My work focuses on turning complex processes into self-operating, intelligent workflows powered by agents capable of reasoning and acting independently.
 
-What I Do
-Autonomous AI Agents  
-Systems that can observe, reason, act, and deliver outcomes with minimal supervision.
+Focus Areas
+Autonomous AI agents
+Operational automation
+Multi-step reasoning systems
+Web and API interaction
+Knowledge and memory systems
+Multi-agent collaboration
 
-AI-Driven Workflows  
-Automation for operations, QA, data extraction, reporting, and internal processes.
+Approach
+I treat AI as a systems discipline.
 
-Full AI Architectures  
-From concept to deployment: cognition, tools, memory, orchestration, and control layers.
+Clarity over complexity.
+Systems over scripts.
+Autonomy over assistance.
+Outcomes over demos.
 
-How I Work
-I approach AI as a systems discipline, not a prompt exercise.
-
-Clarity over complexity
-
-Systems over scripts
-
-Autonomy over assistance
-
-Real outcomes over demos
-
-My goal is to build AI that integrates into operations and produces measurable impact.
-
-Selected Projects
-Autonomous QA Agent for end-to-end testing
-
-Multi-agent automation suite for operations
-
-AI-driven data extraction and analysis engine
+Work
+Autonomous QA Agent
+Multi-agent automation suite
+AI-driven data extraction engine
 
 Mission
-To help teams deploy AI systems that create leverage — not noise.
-Systems that scale, operate reliably, and unlock new capabilities.
+Build AI systems that create leverage — not noise.
 
 Contact
-Fiverr: https://www.fiverr.com/nassimqa
-GitHub: https://github.com/nassim-systems
+Fiverr: https://www.fiverr.com/nassimqa  
+GitHub: https://github.com/nassim-systems (github.com in Bing)

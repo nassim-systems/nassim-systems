@@ -1,44 +1,41 @@
 Nassim — AI Systems Architect
-Designing autonomous intelligence for real-world operations.
-I build AI systems that reason, act, and operate with minimal supervision.
-My work focuses on transforming business processes into self‑operating, intelligent workflows powered by autonomous agents.
+I design and build autonomous AI systems for real-world operations.
+My work focuses on transforming business processes into self-operating, intelligent workflows powered by agents capable of reasoning and acting independently.
 
-I combine system architecture, automation engineering and applied AI to design solutions that are reliable, scalable, and built for production.
+What I Do
+Autonomous AI Agents  
+Systems that can observe, reason, act, and deliver outcomes with minimal supervision.
 
-Focus
+AI-Driven Workflows  
+Automation for operations, QA, data extraction, reporting, and internal processes.
 
-Autonomous AI agents
+Full AI Architectures  
+From concept to deployment: cognition, tools, memory, orchestration, and control layers.
 
-Multi‑step reasoning systems
+How I Work
+I approach AI as a systems discipline, not a prompt exercise.
 
-Tool‑driven automation
+Clarity over complexity
 
-Web & API interaction
+Systems over scripts
 
-Knowledge and memory systems
+Autonomy over assistance
 
-Multi‑agent collaboration
+Real outcomes over demos
 
-Business operations automation
+My goal is to build AI that integrates into operations and produces measurable impact.
 
-Principles
-Clarity over complexity.  
-Systems over scripts.  
-Autonomy over assistance.  
-Real outcomes over demos.
+Selected Projects
+Autonomous QA Agent for end-to-end testing
 
-Selected Work
-Autonomous QA Agent for end‑to‑end testing
+Multi-agent automation suite for operations
 
-Multi‑agent automation suite for operations
-
-AI‑driven data extraction and analysis engine
+AI-driven data extraction and analysis engine
 
 Mission
-Build AI systems that create leverage — not noise.
-Systems that replace repetitive work, scale operations, and unlock new capabilities.
+To help teams deploy AI systems that create leverage — not noise.
+Systems that scale, operate reliably, and unlock new capabilities.
 
 Contact
-For collaborations or consulting:
-Fiverr: https://www.fiverr.com/nassimqa  
+Fiverr: https://www.fiverr.com/nassimqa
 GitHub: https://github.com/nassim-systems

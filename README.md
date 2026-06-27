@@ -3,7 +3,7 @@ I architect autonomous intelligence systems designed for precision, reliability,
 My work focuses on building AI agents, operational intelligence layers, and automation frameworks that transform complex workflows into seamless digital execution.
 
 I operate at the intersection of AI systems design, workflow engineering, and business automation.  
-My goal is not to build tools — but to create operating systems for modern teams: systems that reduce friction, elevate decision quality, and unlock scalable leverage.
+My mission is to create intelligent operating systems for modern teams — systems that reduce friction, elevate decision quality, and unlock scalable leverage.
 
 My agency website serves as the central hub for my work, showcasing my AI systems, consulting services, and strategic positioning.
 

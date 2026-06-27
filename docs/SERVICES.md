@@ -1,16 +1,16 @@
 # Services
 
 ## AI Agent Architecture
-Designing intelligent agents that can reason, act, and collaborate across real operational workflows.
+Designing sophisticated autonomous agents that reason, coordinate, and perform across complex operational workflows with reliability and precision.
 
 ## Automation Engineering
-Building resilient automation systems that reduce manual work and improve consistency.
+Building resilient automation systems that reduce manual effort while increasing consistency, speed, and executive-level operational intelligence.
 
-## QA Automation
-Creating high-confidence automated testing pipelines using modern tools such as Playwright.
+## AI Workflow Design
+Creating intelligent workflows that connect systems, data, and decisions into a seamless operating layer for modern organizations.
 
 ## SaaS AI Integration
-Integrating AI capabilities into existing products and business operations with a focus on reliability and user value.
+Integrating AI capabilities into existing products and business operations with a focus on long-term value, reliability, and strategic impact.
 
-## Custom AI Workflows
-Designing bespoke AI-driven processes that align with business goals, internal systems, and growth strategy.
+## QA Automation
+Providing secondary quality automation support where rigorous validation, regression discipline, and release confidence are required.

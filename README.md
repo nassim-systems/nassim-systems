@@ -64,7 +64,3 @@ This is agency-level engineering, built for teams that demand excellence.
 Fiverr: https://www.fiverr.com/nassimqa  
 GitHub: https://github.com/nassim-systems  
 🌐 Agency Website: https://khirami-agent-landing.vercel.app/
-
----
-
-END OF FILE.

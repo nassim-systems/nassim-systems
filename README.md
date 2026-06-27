@@ -14,6 +14,8 @@ I architect intelligent systems that operate with autonomy, precision, and strat
 
 I work at the intersection of AI systems design, workflow intelligence, and business automation. My role is not simply to build tools, but to create elegant operating systems for modern teams — systems that reduce friction, improve decision quality, and unlock scalable leverage.
 
+My official website serves as the main hub for my AI consulting agency and showcases my work, services, and strategic positioning.
+
 ## Core Expertise
 - Autonomous AI Agents
 - Multi-step Reasoning Systems
@@ -27,6 +29,8 @@ I work at the intersection of AI systems design, workflow intelligence, and busi
 ## Flagship Projects
 ### Khirami
 My flagship autonomous AI agent, designed for structured reasoning, task orchestration, and high-value execution in real-world workflows.
+
+- Khirami — Official AI Agent Landing Page: https://khirami-agent-landing.vercel.app/ — My official autonomous AI agent landing page showcasing premium consulting, automation, and system design.
 
 ### QA Portfolio
 A secondary capability focused on automated testing infrastructure, quality discipline, and reliable release confidence.
@@ -50,6 +54,7 @@ Working with Nassim Systems means partnering with a high-end AI systems architec
 ## Contact
 - Fiverr: https://www.fiverr.com/nassimqa
 - GitHub: https://github.com/nassim-systems
+- 🌐 Official Website: https://khirami-agent-landing.vercel.app/
 
 ## GitHub Insights
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nassim-systems&layout=compact&theme=tokyonight)

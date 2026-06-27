@@ -1,62 +1,68 @@
-<p align="center">
-  <img src="github_readme_banner_nassim.png" alt="Nassim Systems — Autonomous AI & Automation Consulting" width="100%">
-</p>
+# About Me
+I architect autonomous intelligence systems designed for precision, reliability, and strategic impact.  
+My work focuses on building AI agents, operational intelligence layers, and automation frameworks that transform complex workflows into seamless digital execution.
 
-# Nassim Systems — Autonomous AI & Automation Architecture
-### AI Systems Architect — Autonomous Agents, Operational Intelligence, High-Level Automation
+I operate at the intersection of AI systems design, workflow engineering, and business automation.  
+My goal is not to build tools — but to create operating systems for modern teams: systems that reduce friction, elevate decision quality, and unlock scalable leverage.
 
-[![GitHub followers](https://img.shields.io/github/followers/nassim-systems?style=social)](https://github.com/nassim-systems)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Nassim%20QA-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/nassimqa)
-[![AI](https://img.shields.io/badge/Focus-AI%20Systems%20Architecture-00D4FF?logo=robot&logoColor=white)](https://github.com/nassim-systems)
+My agency website serves as the central hub for my work, showcasing my AI systems, consulting services, and strategic positioning.
 
-## About Me
-I architect intelligent systems that operate with autonomy, precision, and strategic value. My work is centered on building autonomous agents, operational intelligence layers, and high-level automation frameworks that turn complex processes into dependable digital execution.
+---
 
-I work at the intersection of AI systems design, workflow intelligence, and business automation. My role is not simply to build tools, but to create elegant operating systems for modern teams — systems that reduce friction, improve decision quality, and unlock scalable leverage.
-
-My official website serves as the main hub for my AI consulting agency and showcases my work, services, and strategic positioning.
-
-## Core Expertise
-- Autonomous AI Agents
-- Multi-step Reasoning Systems
-- Operational Automation
-- AI Workflow Architecture
-- Web & API Interaction
-- Multi-agent Collaboration
-- SaaS Intelligence
+# Core Expertise
+- Autonomous AI Agents  
+- Multi-step Reasoning Systems  
+- Operational Automation  
+- AI Workflow Architecture  
+- Web & API Interaction  
+- Multi-agent Collaboration  
+- SaaS Intelligence  
 - QA Automation (secondary skill)
 
-## Flagship Projects
-### Khirami
-My flagship autonomous AI agent, designed for structured reasoning, task orchestration, and high-value execution in real-world workflows.
+---
 
-- Khirami — Official AI Agent Landing Page: https://khirami-agent-landing.vercel.app/ — My official autonomous AI agent landing page showcasing premium consulting, automation, and system design.
+# Flagship Projects
 
-### QA Portfolio
+## Khirami — Autonomous AI Agent
+My flagship AI agent engineered for structured reasoning, task orchestration, and high-value execution across real-world workflows.  
+Built to operate with autonomy, clarity, and strategic alignment.
+
+## Khirami Agent Landing Page  
+**https://khirami-agent-landing.vercel.app/**  
+A premium landing experience presenting my AI systems with modern positioning, strategic storytelling, and agency-level clarity.  
+This is the official showcase of my consulting brand.
+
+## QA Portfolio  
 A secondary capability focused on automated testing infrastructure, quality discipline, and reliable release confidence.
 
-### Khirami Agent Landing
-A refined Next.js experience built to present AI products with modern positioning, premium storytelling, and digital clarity.
+---
 
-## Services
-- AI Agent Architecture
-- Automation Engineering
-- AI Workflow Design
-- SaaS AI Integration
+# Services
+- AI Agent Architecture  
+- Automation Engineering  
+- AI Workflow Design  
+- SaaS AI Integration  
 - QA Automation (secondary)
 
-## Vision / Philosophy
-I design autonomous systems that create leverage, clarity, and operational intelligence.
+---
 
-## Why Nassim Systems
-Working with Nassim Systems means partnering with a high-end AI systems architect who understands how to translate complex ambitions into intelligent, operationally sound solutions. The focus is on architecture, reliability, and strategic impact — not noise, not superficial demos, and not generic automation.
+# Vision / Philosophy
+I design autonomous systems that create leverage, clarity, and operational intelligence.  
+Every system is built with intention: strategic value, reliability, and long-term scalability.
 
-## Contact
-- Fiverr: https://www.fiverr.com/nassimqa
-- GitHub: https://github.com/nassim-systems
-- 🌐 Official Website: https://khirami-agent-landing.vercel.app/
+---
 
-## GitHub Insights
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nassim-systems&layout=compact&theme=tokyonight)
+# Why Nassim Systems
+Partnering with Nassim Systems means working with a high-end AI systems architect capable of translating complex ambitions into intelligent, operationally sound solutions.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nassim-systems&show_icons=true&theme=tokyonight)
+The focus is on architecture, reliability, and strategic impact — not noise, not superficial demos, and not generic automation.  
+This is agency-level engineering, built for teams that demand excellence.
+
+---
+
+# Contact
+Fiverr: https://www.fiverr.com/nassimqa  
+GitHub: https://github.com/nassim-systems  
+🌐 Agency Website: https://khirami-agent-landing.vercel.app/
+
+---
